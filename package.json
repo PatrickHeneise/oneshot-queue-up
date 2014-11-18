@@ -1,0 +1,17 @@
+{
+  "name": "queue-up",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "hiredis": "^0.1.17",
+    "node-tweet-stream": "^1.6.0",
+    "redis": "^0.12.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.26"
+  }
+}
